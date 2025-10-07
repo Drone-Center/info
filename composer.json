@@ -1,0 +1,7 @@
+{
+    "name": "dronecenter/info",
+    "description": "",
+    "require": {
+        "php": ">=8.2"
+    }
+}
